@@ -1,0 +1,7 @@
+/* App.css */
+
+.app-container {
+  background-image: url('p');
+  background-size: cover;
+  min-height: 100vh;
+}
